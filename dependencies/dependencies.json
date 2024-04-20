@@ -1,0 +1,15 @@
+{
+    "external": {
+        "bcrypt": "^5.1.1",
+        "googleapis": "^134.0.0",
+        "jsonwebtoken": "^9.0.2"
+    },
+    "internal": {
+        "utils": {
+            "synthifyCrypto": "v1",
+            "synthifyJwt": "v1",
+            "synthifyError": "v1",
+            "synthifyAuthHelpers": "v1"
+        }
+    }
+}
