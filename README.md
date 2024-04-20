@@ -1,0 +1,1 @@
+# synthify-shipmate-auth-commonjs
